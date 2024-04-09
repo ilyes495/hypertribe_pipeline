@@ -1,11 +1,11 @@
 # Instructions to Run HyperTribe Pipeline
 
-## 1. Installation of Conda Environment
-
 ### Prerequisites:
 - Anaconda or Miniconda installed on your system.
 - R
 - All the scripts are written to run on LSF environment
+
+## 1. Installation of Conda Environments
 
 ### install the conda/mamba environment
 Create the Conda environment named "hypertribe" using the provided environment.yml file:
