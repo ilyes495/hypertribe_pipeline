@@ -1,0 +1,2 @@
+RBP_ADAR	ensGene	transcript	1	L	.	+	.	gene_id "RBP_ADAR"; transcript_id "RBP_ADAR";  gene_name "RBP_ADAR";
+RBP_ADAR	ensGene	exon	1	L	.	+	.	gene_id "RBP_ADAR"; transcript_id "RBP_ADAR"; exon_number "1"; exon_id "RBP_ADAR.1"; gene_name "RBP_ADAR";
